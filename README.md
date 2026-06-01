@@ -76,6 +76,6 @@ I design and ship resilient cloud-native systems with a strong focus on scalabil
 ## 🤝 Let's Connect
 
 - 💬 Open to collaboration on **DevOps, Cloud, and Platform Engineering**
-- 📫 Reach me on GitHub Discussions/Issues or add your preferred contact links here
+- 📫 Reach me on GitHub: [@abhijanskashyap](https://github.com/abhijanskashyap)
 
 <p align="center"><i>“Automate what repeats. Observe what matters. Improve what scales.”</i></p>
